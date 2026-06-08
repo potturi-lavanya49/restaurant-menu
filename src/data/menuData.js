@@ -4,7 +4,8 @@ export const menuData = [
     icon: "🍛",
     items: [
       { name: "Chicken Biryani", price: 250, type: "nonveg" },
-      { name: "Mutton Biryani", price: 320, type: "nonveg" },
+      { name: "Mutton Biryani", price: 420, type: "nonveg" },
+      { name: "Prawns Biryani", price: 320, type: "nonveg" },
       { name: "Veg Biryani", price: 180, type: "veg" }
     ]
   },
